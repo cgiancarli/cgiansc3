@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="room_number" label="Room Number" language="en" table="x_snc_conf_room_conf_room">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>room_number</element>
+            <help/>
+            <hint/>
+            <label>Room Number</label>
+            <language>en</language>
+            <name>x_snc_conf_room_conf_room</name>
+            <plural>Room Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin.asset</sys_created_by>
+            <sys_created_on>2017-02-14 23:38:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>71974c88db49b2403c1bff4e0f9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Room Number</sys_name>
+            <sys_package display_value="Conf Room" source="x_snc_conf_room">b5408cc0db49b2403c1bff4e0f9619b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Conf Room">b5408cc0db49b2403c1bff4e0f9619b8</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_conf_room_conf_room_room_number_en</sys_update_name>
+            <sys_updated_by>admin.asset</sys_updated_by>
+            <sys_updated_on>2017-02-14 23:38:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

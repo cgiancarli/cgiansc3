@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Conf Room" max_length="40" name="x_snc_conf_room_conf_room" type="collection">
+        <element label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element label="Room Name" max_length="40" name="room_name" type="string"/>
+        <element label="Room Number" max_length="40" name="room_number" type="integer"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+    </element>
+</database>
